@@ -35,8 +35,8 @@ A modern flashcard application implementing the SuperMemo 2 (SM2) algorithm for 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/flashlearn.git
-   cd flashlearn
+   git clone https://github.com/Prachi129/Flashcard-App
+   cd project
    ```
 
 2. Install dependencies:
@@ -88,21 +88,4 @@ src/
 └── utils/           # Helper functions
 ```
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- SuperMemo 2 Algorithm by Piotr Wozniak
-- [Tailwind CSS](https://tailwindcss.com)
-- [Framer Motion](https://www.framer.com/motion)
-- [Zustand](https://github.com/pmndrs/zustand)
+##DEMO:https://cool-salamander-f70076.netlify.app/
