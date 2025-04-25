@@ -3,7 +3,7 @@
 
 A modern flashcard application implementing the SuperMemo 2 (SM2) algorithm for efficient learning and long-term retention. Built with React, TypeScript, and Tailwind CSS.
 
-![FlashLearn Screenshot](https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=1200)
+
 
 ## Features
 
